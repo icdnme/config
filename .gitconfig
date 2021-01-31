@@ -1,0 +1,11 @@
+[user]
+	name = Alex Honda
+	email = alexanderhonda@gmail.com
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
+[color]
+	ui = auto
+[alias]
+	graph = log --decorate --graph --all
